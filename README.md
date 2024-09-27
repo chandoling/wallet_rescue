@@ -15,6 +15,9 @@ This project allows you to bundle and send ERC-20 tokens. The configuration incl
 This tool facilitates ERC-20 token recovery for compromised wallets. The compromised wallet's assets are securely transferred to a sponsor wallet that covers the gas costs.
 
 For any requests regarding **DeFi asset recovery** or **claiming tokens**, feel free to **contact me**:
+For further assistance or more detailed explanations, please refer to this 
+
+[video](https://www.youtube.com/watch?v=MajK_ccE6ec&t=9s).
 
 [Contact me on Telegram](https://t.me/dolchanchain)
 
