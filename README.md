@@ -17,7 +17,7 @@ This tool facilitates ERC-20 token recovery for compromised wallets. The comprom
 For any requests regarding **DeFi asset recovery** or **claiming tokens**, feel free to **contact me**:
 For further assistance or more detailed explanations, please refer to this 
 
-[video](https://www.youtube.com/watch?v=MajK_ccE6ec&t=9s).
+[![Watch the video](https://img.youtube.com/vi/MajK_ccE6ec/0.jpg)](https://www.youtube.com/watch?v=MajK_ccE6ec&t=9s)
 
 [Contact me on Telegram](https://t.me/dolchanchain)
 
