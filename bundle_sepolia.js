@@ -1,7 +1,6 @@
 const { JsonRpcProvider, Wallet, ethers } = require("ethers");
 const { FlashbotsBundleProvider, FlashbotsBundleResolution } = require("@flashbots/ethers-provider-bundle") 
 const { exit } = require('process');
-require('dotenv').config();
 
 // sepolia
 const FLASHBOTS_ENDPOINT = 'https://relay-sepolia.flashbots.net' 
